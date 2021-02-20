@@ -3,9 +3,9 @@
 An supervised night to day image translation using **Deep Convolutional Generative Adversarial Network**
 
 ## Prerequisites
-Python 3
-Tensorflow
-CPU or NVIDIA GPU + CUDA CuDNN
+- Python 3
+- Tensorflow
+- CPU or NVIDIA GPU + CUDA CuDNN
 
 ## Instalation
 

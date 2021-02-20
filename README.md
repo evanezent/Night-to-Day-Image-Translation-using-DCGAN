@@ -1,6 +1,6 @@
 # Night-to-Day-Image-Translation-using-DCGAN
 
-An supervised night to day image translation using **Deep Convolutional Generative Adversarial Network**
+An supervised night to day image translation using **Deep Convolutional Generative Adversarial Network**. This code was built as my final Bachelor Thesis at Telkom University.
 
 ## Prerequisites
 - Python 3

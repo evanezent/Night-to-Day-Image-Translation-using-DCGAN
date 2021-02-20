@@ -25,7 +25,7 @@ An supervised night to day image translation using **Deep Convolutional Generati
 ```
 
 ## Dataset
-We provided our augmented [dataset](https://drive.google.com/drive/folders/1W0DIj-2M-BCVi4FfPsl_zYhNS304Uh1K?usp=sharing) and [datatest](https://drive.google.com/drive/folders/1sSjqPcK8IYGJ0Rx9qWJs0QX3Sgry6KS4?usp=sharing) which has a square shape. If you want the un-augmented data, just email me [here](pratamayo16@gmail.com)
+We provided our augmented [dataset](https://drive.google.com/drive/folders/1W0DIj-2M-BCVi4FfPsl_zYhNS304Uh1K?usp=sharing) and [datatest](https://drive.google.com/drive/folders/1sSjqPcK8IYGJ0Rx9qWJs0QX3Sgry6KS4?usp=sharing) which has a square shape. If you want the un-augmented data, just email me [here](pratamayo16@gmail.com).
 
 ## Data Preparation
 On data preparation, we extract many timelapse video and then tak 5~10 copies of the image.

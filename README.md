@@ -40,10 +40,10 @@ As the final result, we just get a `40% accuracy` using datatest. Based on our a
   - Suitable architecture for night to day translation case
 
 ### Using testing images
-[testing](https://github.com/evanezcent/Night-to-Day-Image-Translation-using-DCGAN/blob/master/final-model-test.png)
+<img src="/final-model-test.png" width="700">
 
 ### Using training images
-[training](https://github.com/evanezcent/Night-to-Day-Image-Translation-using-DCGAN/blob/master/final-model-training.png)
+<img src="/final-model-train.png" width="700"> 
 
 ## Paper
 **SOON**

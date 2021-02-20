@@ -10,7 +10,9 @@ CPU or NVIDIA GPU + CUDA CuDNN
 ## Instalation
 
 ### Clone this repo
-```git clone https://github.com/evanezcent/Night-to-Day-Image-Translation-using-DCGAN/```
+```
+  git clone https://github.com/evanezcent/Night-to-Day-Image-Translation-using-DCGAN/
+```
 
 ### Install
 ```

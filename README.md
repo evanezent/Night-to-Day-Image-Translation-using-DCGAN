@@ -48,5 +48,4 @@ As the final result, we just get a `40% accuracy` using datatest. Based on our a
 ### Using training images
 <img src="/final-model-train.png" width="700"> 
 
-## Paper
-Our paper : [here](https://repository.telkomuniversity.ac.id/pustaka/166788/translasi-citra-malam-menjadi-citra-siang-menggunakan-deep-convolutional-generative-adversarial-network.html)
+## [Paper](https://repository.telkomuniversity.ac.id/pustaka/166788/translasi-citra-malam-menjadi-citra-siang-menggunakan-deep-convolutional-generative-adversarial-network.html)
